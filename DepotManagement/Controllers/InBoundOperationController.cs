@@ -14,6 +14,7 @@ using SystemManagementService.Models;
 
 namespace DepotManagement.Controllers
 {
+    //Inbound Controller
     [Route("api/[controller]")]
     [ApiController]
     public class InBoundOperationController : ControllerBase
